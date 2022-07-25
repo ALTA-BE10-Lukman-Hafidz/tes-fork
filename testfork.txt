@@ -1,10 +1,7 @@
-1. test
-2. tes 2
-3. tes 3
-4. tes 4
-4. tes 5
 
-kumau cubacuba
+
+tambahin tulisan 
+sekarang mau coba lagi
 chikicuba3
 tolong di rebase
 1
@@ -17,3 +14,6 @@ tolong di rebase
 8
 9
 10
+
+ini prt2
+ini part 3
