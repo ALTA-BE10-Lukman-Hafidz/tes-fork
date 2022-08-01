@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 tambah fitur delete
+=======
+tambah fitur regis
+>>>>>>> c1b78d10995595ead0041bc5ec647478430b4ef6
 tambahin tulisan 
 sekarang mau coba lagi
 chikicuba3
