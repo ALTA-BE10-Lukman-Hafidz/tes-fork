@@ -1,4 +1,5 @@
 
+tambah fitur delete
 tambah fitur regis
 tambahin tulisan 
 sekarang mau coba lagi
